@@ -4,5 +4,7 @@
 	
 	echo "Testando Comandos";
 
+	echo "Testando local"
+
 
 ?>
